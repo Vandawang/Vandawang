@@ -5,4 +5,4 @@ I have lots of hobbies:
 1. In weekend, my roommate and me like to hiking and cooking.
 2. I like music.
 
-[text to display](https://www.example.com)
+[Github](https://www.github.com)
