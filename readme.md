@@ -6,3 +6,5 @@ I have lots of hobbies:
 2. I like music.
 
 [Imperial MSc in Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
+------
+last updated: 2024-09-31
